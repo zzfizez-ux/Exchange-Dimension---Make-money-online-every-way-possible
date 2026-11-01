@@ -3,14 +3,14 @@
 A modern, responsive landing page for **Exchange Dimension — Make money online every way possible**.
 
 ## Current scope
-- PayPal and crypto exchange service presentation
+- PayPal, crypto, and PaysafeCard payment-method presentation
 - 10% service-fee explanation
 - Discord contact CTA
 - FAQ and transparent service language
 - Responsive dark design
 
 ## Contact
-Discord: https://discord.gg/pyMhSjYYU
+Discord: https://discord.gg/VWC5paZPsb
 
 > This website is informational. Requests are reviewed individually and are not intended to bypass payment-provider restrictions, identity checks, sanctions, or other applicable rules.
 
